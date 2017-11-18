@@ -18,6 +18,7 @@ function divide(x, y) {
 
 function inc(n) {
   x = n++
+  n = x
   return x
 }
 
