@@ -1,4 +1,4 @@
-var x, y 
+var number 
 
 function add(x, y) {
   return x + y;
@@ -17,8 +17,8 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  n = n++
-  return n
+  number += n
+  return number
 }
 
 function dec(n) {
