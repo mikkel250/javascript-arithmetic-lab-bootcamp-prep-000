@@ -18,7 +18,7 @@ function divide(x, y) {
 
 function inc(n) {
   number = number + 1;
-  return number
+  return number;
 }
 
 function dec(n) {
