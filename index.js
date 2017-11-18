@@ -17,22 +17,23 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  number = number + 1;
+  number = n + 1;
   return number;
 }
 
 function dec(n) {
-  number = number - 1;
+  number = n - 1;
   return number;
 }
 
 function makeInt(n) {
-  number = 
-  return n.parseInt ;
+  number = n.parseInt;
+  return number;
 }
 
 function preserveDecimal(n) {
-  return n.parseFloat;
+  number = n.parseFloat;
+  return number;
 }
 
 
