@@ -17,7 +17,7 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  var increment = p
+  x = n
   p 
   return n++
 }
