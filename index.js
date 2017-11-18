@@ -17,9 +17,8 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  x = n
-  p 
-  return n++
+  x = n++
+  return x
 }
 
 function dec(n) {
