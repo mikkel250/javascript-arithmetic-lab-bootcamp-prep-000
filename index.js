@@ -27,12 +27,12 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  number = n.parseInt;
+  number = parseInt(n);
   return number;
 }
 
 function preserveDecimal(n) {
-  number = n.parseFloat;
+  number = parseFloat(n);
   return number;
 }
 
