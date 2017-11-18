@@ -17,14 +17,13 @@ function divide(x, y) {
 }
 
 function inc(n) {
-  number += n
+  number = number + 1;
   return number
 }
 
 function dec(n) {
-  y = n--
-  n = y
-  return y
+  number = number - 1;
+  return number;
 }
 
 function makeInt(n) {
