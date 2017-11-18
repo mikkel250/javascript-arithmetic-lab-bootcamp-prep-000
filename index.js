@@ -1,5 +1,15 @@
+function add(x, y) {
+  return x + y;
+}
 
-1 + 80
-60 - 40
-2 * 34
-5.0 / 2.5
+function subtract(x, y) {
+  return x - y;
+}
+
+function multiply(x, y) {
+  return x * y;
+}
+
+function divide(x, y) {
+  return x / y;
+}
